@@ -2,6 +2,8 @@
 
 [https://my-json-server.typicode.com/brian-izaki/fake-dataAPI](https://my-json-server.typicode.com/brian-izaki/fake-dataAPI)
 
-## Use your own data
+## Referências
 
-Fork it and change `db.json` values or create a repo with a `db.json` file.
+Utilizado o site [jsonPlaceholder](https://jsonplaceholder.typicode.com/) para simular uma api rest falsa. Está sendo utilizando o [myjson server](https://my-json-server.typicode.com/) para customizar as respostas das requisições.
+
+
