@@ -1,7 +1,10 @@
 {
-  "login": {
+  "user": {
     "username": "Zenebes",
     "password": "teste123"
+  },
+  "login": {
+    "token": "1234"
   },
   "posts": [
     { "id": 1, "title": "Post 1" },
